@@ -50,7 +50,7 @@
 ![imagem não encontrada](https://i.pinimg.com/564x/fd/f5/48/fdf5482a85b902045fcaed2b45cf5af7.jpg)
 
 # 📚Minhas qualificações escolares
-- Curso de Inglês (finalizado, e no nível C1)
+- Curso de Inglês (finalizado, e no nível C1, de acordo com CEFR, O Quadro Europeu Comum de Referência para as Línguas)
 - Ensimo médio (em andamento)
 - Técnica em desenvolvimento de sistemas (em anadamento) 
 - Curso Método supernova de mídias sociais
