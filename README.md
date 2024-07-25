@@ -31,8 +31,8 @@
 ![imagem não encontrada](https://i.pinimg.com/736x/f6/c7/77/f6c777125ad4956f4849fc29e0ec3988.jpg)
 
 # ✨Um pouco sobre mim...
->#### <p style="color: white;"> Sou uma garota cristã de 18 anos e me encontro cursando o terceiro ano do ensino médio, adoro artes e idiomas diferentes. </p>
->> <p style="color: green;">I'm a christian girl, I have 18 years old and I am currently on my third year of highschool, I love art end different languages</p>
+>#### <p style="color: white;"> Sou uma garota cristã de 18 anos e me encontro cursando o terceiro ano do ensino médio, adoro artes e aprender idiomas diferentes. </p>
+>> <p style="color: green;">I'm a christian girl, I have 18 years old and I am currently on my third year of highschool, I love art end learn different languages</p>
 >> <p style="color: pink;">私はクリスチャンの女の子です、18歳で高校3年生です。美術が大好きで、さまざまな言語を学ぶのが好きです。</p>
 
 
